@@ -1,6 +1,6 @@
 ### simple linear regression calculator in python
 
-check main.ipynb file for details
+[check main.ipynb file for details](https://github.com/brkunver/simple-linear-reg-python/blob/main/main.ipynb)
 
 ```python
     def simple_lin_reg(x : pd.Series,y :pd.Series):
