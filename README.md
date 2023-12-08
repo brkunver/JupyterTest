@@ -1,4 +1,5 @@
-simple linear regression calculator in python
+### simple linear regression calculator in python
+
 check main.ipynb file for details
 
 ```python
